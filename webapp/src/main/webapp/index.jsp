@@ -2,8 +2,9 @@
 <head>
 <style type="text/css">
 label{
-width:130px;
+width:100px;
 display:inline-block;
+margin:4px;
 }
 </style>
 
