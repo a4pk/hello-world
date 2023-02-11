@@ -42,7 +42,7 @@ margin:5px;
   </div>
 
    <h1> Changed by Praveen on 11/02/2023 </h1>
-   <h1> Thankyou </h1>
+   <h1> Its all about Practice </h1>
 
   
 </form>
