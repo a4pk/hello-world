@@ -2,7 +2,7 @@
 <head>
 <style type="text/css">
 label{
-width:100px;
+width:110px;
 display:inline-block;
 }
 </style>
