@@ -42,7 +42,7 @@ margin:5px;
   </div>
 
    <h1> Changed by Praveen on 15/02/2023 </h1>
-   <h1> on Kubernetes POD  </h1>
+   <h1> Thank You  </h1>
 
   
 </form>
